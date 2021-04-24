@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "test-node-d3-executor",
+    "name": "test-node-d3",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "gmnp3g7mli",
+    "module": "app"
+  }
+}
